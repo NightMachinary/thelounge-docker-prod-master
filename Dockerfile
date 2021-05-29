@@ -6,8 +6,10 @@ VOLUME "${THELOUNGE_HOME}"
 ENV PORT 9000
 EXPOSE ${PORT}
 
-COPY docker-entrypoint.sh /docker-entrypoint.sh
 WORKDIR /var/opt/thelounge-source/
+
+COPY docker-entrypoint.sh /docker-entrypoint.sh
+RUN chmod +x /docker-entrypoint.sh
 
 # Install git
 RUN apk add --no-cache git
