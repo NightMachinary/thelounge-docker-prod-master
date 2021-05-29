@@ -4,12 +4,18 @@ A docker build from The Lounge Master Edition <br>
 <a href="https://github.com/thelounge/thelounge">https://github.com/thelounge/thelounge<a/>
 
 ## Commands
-Create user - docker exec --user node -it [container_id] node index add [user] <br>
-Install themes - docker exec --user node -it [container_id] node index install thelounge-theme-name
+```
+$ docker exec --user node -it [container_id] node index add [user]
+```
+```
+$ docker exec --user node -it [container_id] node index install thelounge-theme-name
+```
 
 ## How to use to pull the docker container from Docker Hub
-docker pull zen262176/thelounge-docker:master <br>
 <a href="https://hub.docker.com/repository/docker/zen262176/thelounge-docker">repository/docker/zen262176/thelounge-docker</a>
+```
+$ docker pull zen262176/thelounge-docker:master
+```
 
 
 ## Issues :sparkles:
