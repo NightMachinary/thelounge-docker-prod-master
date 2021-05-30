@@ -26,11 +26,6 @@
 	</a>
 
 <p align="center">
-A docker build from The Lounge Master Edition <br>
-<a href="https://github.com/thelounge/thelounge">https://github.com/thelounge/thelounge<a/>
-</p>
-
-<p align="center">
 <a href="https://www.buymeacoffee.com/zen262176" target="_blank"><img src="https://lounge-group.co.uk/by-me-a-coffee.png" alt="Buy Me A Coffee"></a>
 </p>
 
