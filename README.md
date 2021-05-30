@@ -42,7 +42,7 @@
 	</a>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/thelounge/thelounge.github.io/master/img/thelounge-screenshot.png" width="550">
+	<img src="https://github.com/el-profesor926/thelounge-docker-master/blob/main/Screenshot.png" width="550">
 </p>
 
 <p align="center">
