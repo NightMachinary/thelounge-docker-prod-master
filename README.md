@@ -1,4 +1,6 @@
-## The Lounge Docker Container
+<h1 align="center">
+	The Lounge Docker Container
+</h1>
 <br>
 <p align="center">
 	<a href="https://demo.thelounge.chat/"><img
