@@ -1,23 +1,5 @@
-<h1 align="center">
-	<img
-		width="300"
-		alt="The Lounge"
-		src="https://raw.githubusercontent.com/thelounge/thelounge/master/client/img/logo-vertical-transparent-bg.svg?sanitize=true">
-</h1>
-
-<h3 align="center">
-	Modern web IRC client designed for self-hosting
-</h3>
-
-<p align="center">
-	<strong>
-		<a href="https://thelounge.chat/">Website</a>
-		•
-		<a href="https://thelounge.chat/docs">Docs</a>
-		•
-		<a href="https://demo.thelounge.chat/">Demo</a>
-	</strong>
-</p>
+## The Lounge Docker Container
+<br>
 <p align="center">
 	<a href="https://demo.thelounge.chat/"><img
 		alt="#thelounge IRC channel on Libera.Chat"
@@ -42,13 +24,14 @@
 	</a>
 
 <p align="center">
-	<img src="https://github.com/el-profesor926/thelounge-docker-master/blob/main/Screenshot.png" width="550">
-</p>
-
-<p align="center">
 A docker build from The Lounge Master Edition <br>
 <a href="https://github.com/thelounge/thelounge">https://github.com/thelounge/thelounge<a/>
 </p>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/zen262176" target="_blank"><img src="https://lounge-group.co.uk/by-me-a-coffee.png" alt="Buy Me A Coffee"></a>
+</p>
+
 
 ### Adding users
 
