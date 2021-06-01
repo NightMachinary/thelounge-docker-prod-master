@@ -39,7 +39,7 @@ $ docker exec --user node -it [container_id] node index add [user]
 ```
 ### Adding themes
 
-themes can be added as follows:
+Themes can be added as follows:
 ```
 $ docker exec --user node -it [container_id] node index install thelounge-theme-name
 ```
