@@ -50,6 +50,6 @@ $ docker pull zen262176/thelounge-docker:master
 ```
 
 
-## Issues :sparkles:
+## Issues :sparkles: <a href="https://github.com/el-profesor926/thelounge-docker-master/issues"><img alt="Issues Open" src="https://img.shields.io/github/issues/el-profesor926/thelounge-docker-master"></a> <a href="https://github.com/el-profesor926/thelounge-docker-master/issues?q=is%3Aissue+is%3Aclosed"><img alt="Issues Closed" src="https://img.shields.io/github/issues-closed-raw/el-profesor926/thelounge-docker-master?color=red"></a>
 If you have an issue, change request or comments about this theme please report it below: <br>
 <a href="https://github.com/el-profesor926/thelounge-docker-master/issues">/thelounge-docker-master/issues</a>
