@@ -3,6 +3,8 @@ FROM node:lts-alpine
 ENV THELOUNGE_HOME "/var/opt/thelounge"
 VOLUME "${THELOUNGE_HOME}"
 
+WORKDIR /var/opt/thelounge-source/
+
 # Expose HTTP.
 ENV PORT 9000
 EXPOSE ${PORT}
