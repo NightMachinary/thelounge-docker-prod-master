@@ -7,10 +7,10 @@
 	<a href="https://demo.thelounge.chat/"><img
 		alt="#thelounge IRC channel on Libera.Chat"
 		src="https://img.shields.io/badge/Libera.Chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
-	<a href="https://hub.docker.com/r/zen262176/thelounge-docker"><img
+	<a href="https://github.com/el-profesor926/thelounge-docker-master"><img
 		alt="Total pulls on Docker"
 		src="https://img.shields.io/github/checks-status/el-profesor926/thelounge-docker-master/master?style=flat-square"></a>
-	<a href="https://github.com/el-profesor926/thelounge-docker-master"><img
+	<a href="https://hub.docker.com/r/zen262176/thelounge-docker"><img
 		alt="Total pulls on Docker"
 		src="https://img.shields.io/docker/pulls/zen262176/thelounge-docker.svg?style=flat-square"></a>
 	<a href="https://hub.docker.com/r/zen262176/thelounge-docker"><img
