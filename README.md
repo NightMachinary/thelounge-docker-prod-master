@@ -9,12 +9,14 @@
 		src="https://img.shields.io/badge/Libera.Chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
 	<a href="https://hub.docker.com/r/zen262176/thelounge-docker"><img
 		alt="Total pulls on Docker"
-		src="https://img.shields.io/docker/pulls/zen262176/thelounge-docker.svg?style=flat-square&maxAge=3600"></a>
+		src="https://img.shields.io/github/checks-status/el-profesor926/thelounge-docker-master/master?style=flat-square"></a>
+	<a href="https://github.com/el-profesor926/thelounge-docker-master"><img
+		alt="Total pulls on Docker"
+		src="https://img.shields.io/docker/pulls/zen262176/thelounge-docker.svg?style=flat-square"></a>
 	<a href="https://hub.docker.com/r/zen262176/thelounge-docker"><img
 		alt="Total pulls on Docker"
-		src="https://img.shields.io/docker/stars/zen262176/thelounge-docker.svg?colorB=007dc7&style=flat-square&maxAge=3600">
-	</a>
-
+		src="https://img.shields.io/docker/stars/zen262176/thelounge-docker.svg?colorB=007dc7&style=flat-square&maxAge=3600"></a>
+</p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/zen262176" target="_blank"><img src="https://lounge-group.co.uk/by-me-a-coffee.png" alt="Buy Me A Coffee"></a>
 </p>
@@ -38,7 +40,10 @@ $ docker exec --user node -it [container_id] node index install thelounge-theme-
 ```
 $ docker pull zen262176/thelounge-docker:master
 ```
-
+## Manual Run
+```
+$ docker run --detach --name thelounge-master --publish 9012:9000 --volume ~/.thelounge:/var/opt/thelounge --restart always zen262176/thelounge-docker:master
+```
 
 ## Issues :sparkles: <a href="https://github.com/el-profesor926/thelounge-docker-master/issues"><img alt="Issues Open" src="https://img.shields.io/github/issues/el-profesor926/thelounge-docker-master"></a> <a href="https://github.com/el-profesor926/thelounge-docker-master/issues?q=is%3Aissue+is%3Aclosed"><img alt="Issues Closed" src="https://img.shields.io/github/issues-closed-raw/el-profesor926/thelounge-docker-master?color=red"></a>
 If you have an issue, change request or comments about this theme please report it below: <br>
