@@ -7,14 +7,6 @@
 	<a href="https://demo.thelounge.chat/"><img
 		alt="#thelounge IRC channel on Libera.Chat"
 		src="https://img.shields.io/badge/Libera.Chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
-	<a href="https://yarn.pm/thelounge"><img
-		alt="npm version"
-		src="https://img.shields.io/npm/v/thelounge.svg?colorA=333a41&maxAge=3600"></a>
-	<a href="https://npm-stat.com/charts.html?package=thelounge&from=2016-02-12"><img
-		alt="Total downloads on npm"
-		src="https://img.shields.io/npm/dy/thelounge.svg?colorA=333a41&colorB=007dc7&maxAge=3600&label=Downloads"></a>
-</p>
-<p align="center">
 	<a href="https://hub.docker.com/r/zen262176/thelounge-docker"><img
 		alt="Total pulls on Docker"
 		src="https://img.shields.io/docker/pulls/zen262176/thelounge-docker.svg?style=flat-square&maxAge=3600"></a>
