@@ -42,7 +42,12 @@ $ docker pull zen262176/thelounge-docker:master
 ```
 ## Manual Run
 ```
-$ docker run --detach --name thelounge-master --publish 9012:9000 --volume ~/.thelounge:/var/opt/thelounge --restart always zen262176/thelounge-docker:master
+$ docker run --detach \
+	--name thelounge-master \ 
+	--publish 9000:9000 \
+	--volume ~/.thelounge:/var/opt/thelounge \
+	--restart always \
+	zen262176/thelounge-docker:master
 ```
 
 ## Issues :sparkles: <a href="https://github.com/el-profesor926/thelounge-docker-master/issues"><img alt="Issues Open" src="https://img.shields.io/github/issues/el-profesor926/thelounge-docker-master"></a> <a href="https://github.com/el-profesor926/thelounge-docker-master/issues?q=is%3Aissue+is%3Aclosed"><img alt="Issues Closed" src="https://img.shields.io/github/issues-closed-raw/el-profesor926/thelounge-docker-master?color=red"></a>
