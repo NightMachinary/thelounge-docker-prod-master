@@ -9,7 +9,7 @@
 		src="https://img.shields.io/badge/libera.chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
 	<a href="https://github.com/el-profesor926/thelounge-docker-prod-master/actions"><img
 		alt="Build Status"
-		src="https://github.com/el-profesor926/thelounge-docker-prod-master/workflows/Docker/badge.svg"></a>
+		src="https://github.com/el-profesor926/thelounge-docker-prod-master/workflows/Docker-Production/badge.svg"></a>
 	<a href="https://hub.docker.com/repository/docker/zen262176/thelounge-docker"><img
 		alt="Docker version"
 		src="https://img.shields.io/docker/v/zen262176/thelounge-docker/production"></a><br>
