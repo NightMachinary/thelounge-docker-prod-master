@@ -10,7 +10,7 @@
 	<a href="https://github.com/el-profesor926/thelounge-docker-prod-master/actions"><img
 		alt="Build Status"
 		src="https://github.com/el-profesor926/thelounge-docker-prod-master/workflows/Docker/badge.svg"></a>
-	<a href="https://hub.docker.com/repository/docker/zen262176/thelounge-docker"><img
+	<a href="https://hub.docker.com/repository/docker/zen262176/thelounge-docker:production"><img
 		alt="Docker version"
 		src="https://img.shields.io/docker/v/zen262176/thelounge-docker"></a><br>
 	<a href="https://hub.docker.com/r/zen262176/thelounge-docker"><img
