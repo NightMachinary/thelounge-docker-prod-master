@@ -43,13 +43,13 @@ $ docker exec --user node -it [container_id] node index install thelounge-theme-
 ```
 $ docker pull zen262176/thelounge-docker:production
 ```
-## Manual Run
+## Manual Run (http://localhost:9000)
 ```
 $ docker run --detach \
 	--name thelounge-prodmaster \ 
 	--publish 9000:9000 \
 	--volume ~/.thelounge:/var/opt/thelounge \
-	--restart always \
+	--restart unless-stopped \
 	zen262176/thelounge-docker:production
 ```
 
