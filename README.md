@@ -7,9 +7,9 @@
 	<a href="https://demo.thelounge.chat/"><img
 		alt="#thelounge IRC channel on Libera.Chat"
 		src="https://img.shields.io/badge/libera.chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
-	<a href="https://github.com/el-profesor926/thelounge-docker-master/actions"><img
+	<a href="https://github.com/el-profesor926/thelounge-docker-prod-master/actions"><img
 		alt="Build Status"
-		src="https://github.com/el-profesor926/thelounge-docker-master/workflows/Docker/badge.svg"></a>
+		src="https://github.com/el-profesor926/thelounge-docker-prod-master/workflows/Docker/badge.svg"></a>
 	<a href="https://hub.docker.com/repository/docker/zen262176/thelounge-docker"><img
 		alt="Docker version"
 		src="https://img.shields.io/docker/v/zen262176/thelounge-docker"></a><br>
@@ -53,6 +53,6 @@ $ docker run --detach \
 	zen262176/thelounge-docker:master
 ```
 
-## Issues :sparkles: <a href="https://github.com/el-profesor926/thelounge-docker-master/issues"><img alt="Issues Open" src="https://img.shields.io/github/issues/el-profesor926/thelounge-docker-master"></a> <a href="https://github.com/el-profesor926/thelounge-docker-master/issues?q=is%3Aissue+is%3Aclosed"><img alt="Issues Closed" src="https://img.shields.io/github/issues-closed-raw/el-profesor926/thelounge-docker-master?color=red"></a>
+## Issues :sparkles: <a href="https://github.com/el-profesor926/thelounge-docker-prod-master/issues"><img alt="Issues Open" src="https://img.shields.io/github/issues/el-profesor926/thelounge-docker-prod-master"></a> <a href="https://github.com/el-profesor926/thelounge-docker-master/issues?q=is%3Aissue+is%3Aclosed"><img alt="Issues Closed" src="https://img.shields.io/github/issues-closed-raw/el-profesor926/thelounge-docker-master?color=red"></a>
 If you have an issue, change request or comments about this theme please report it below: <br>
-<a href="https://github.com/el-profesor926/thelounge-docker-master/issues">/thelounge-docker-master/issues</a>
+<a href="https://github.com/el-profesor926/thelounge-docker-prod-master/issues">/thelounge-docker-prod-master/issues</a>
