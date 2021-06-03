@@ -10,11 +10,14 @@
 	<a href="https://github.com/el-profesor926/thelounge-docker-master/actions"><img
 		alt="Build Status"
 		src="https://github.com/el-profesor926/thelounge-docker-master/workflows/Docker/badge.svg"></a>
+	<a href="https://hub.docker.com/repository/docker/zen262176/thelounge-docker"><img
+		alt="Docker version"
+		src="https://img.shields.io/docker/v/zen262176/thelounge-docker"></a><br>
 	<a href="https://hub.docker.com/r/zen262176/thelounge-docker"><img
 		alt="Total pulls on Docker"
 		src="https://img.shields.io/docker/pulls/zen262176/thelounge-docker.svg?style=flat-square"></a>
 	<a href="https://hub.docker.com/r/zen262176/thelounge-docker"><img
-		alt="Total pulls on Docker"
+		alt="Total stars on Docker"
 		src="https://img.shields.io/docker/stars/zen262176/thelounge-docker.svg?colorB=007dc7&style=flat-square&maxAge=3600"></a>
 </p>
 <p align="center">
