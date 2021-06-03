@@ -41,7 +41,7 @@ $ docker exec --user node -it [container_id] node index install thelounge-theme-
 ## How to use to pull the docker container from Docker Hub
 <a href="https://hub.docker.com/repository/docker/zen262176/thelounge-docker">repository/docker/zen262176/thelounge-docker</a>
 ```
-$ docker pull zen262176/thelounge-docker:master
+$ docker pull zen262176/thelounge-docker:production
 ```
 ## Manual Run
 ```
@@ -50,7 +50,7 @@ $ docker run --detach \
 	--publish 9000:9000 \
 	--volume ~/.thelounge:/var/opt/thelounge \
 	--restart always \
-	zen262176/thelounge-docker:master
+	zen262176/thelounge-docker:production
 ```
 
 ## Issues :sparkles: <a href="https://github.com/el-profesor926/thelounge-docker-prod-master/issues"><img alt="Issues Open" src="https://img.shields.io/github/issues/el-profesor926/thelounge-docker-prod-master"></a> <a href="https://github.com/el-profesor926/thelounge-docker-master/issues?q=is%3Aissue+is%3Aclosed"><img alt="Issues Closed" src="https://img.shields.io/github/issues-closed-raw/el-profesor926/thelounge-docker-master?color=red"></a>
