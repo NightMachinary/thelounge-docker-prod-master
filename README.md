@@ -46,7 +46,7 @@ $ docker pull zen262176/thelounge-docker:production
 ## Manual Run
 ```
 $ docker run --detach \
-	--name thelounge-master \ 
+	--name thelounge-prodmaster \ 
 	--publish 9000:9000 \
 	--volume ~/.thelounge:/var/opt/thelounge \
 	--restart always \
