@@ -1,3 +1,6 @@
+#version 1.0
+# By el-profesor926
+
 FROM node:lts-alpine
 
 ENV THELOUNGE_HOME "/var/opt/thelounge"
