@@ -2,7 +2,10 @@
 	The Lounge Docker Container<br>
 	Production Master Build
 </h1>
-<br>
+<p align="center">
+	<b>v4.3.0-pre.2 / 53a7227</b>
+</p>
+
 <p align="center">
 	<a href="https://demo.thelounge.chat/"><img
 		alt="#thelounge IRC channel on Libera.Chat"
