@@ -1,4 +1,4 @@
-#version 1.0
+#version 1.1
 # By el-profesor926
 
 FROM node:lts-alpine
