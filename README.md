@@ -56,6 +56,21 @@ $ docker run --detach \
 	zen262176/thelounge-docker:production
 ```
 
+## How to build an up-to-date image from the master
+
+```zsh
+$ docker build 'https://github.com/el-profesor926/thelounge-docker-prod-master.git' --tag 'thelounge_master'
+```
+
+```zsh
+$ docker run --detach \
+	--name thelounge-prodmaster \ 
+	--publish 9000:9000 \
+	--volume ~/.thelounge:/var/opt/thelounge \
+	--restart unless-stopped \
+	thelounge_master
+```
+
 ## Issues :sparkles: <a href="https://github.com/el-profesor926/thelounge-docker-prod-master/issues"><img alt="Issues Open" src="https://img.shields.io/github/issues/el-profesor926/thelounge-docker-prod-master"></a> <a href="https://github.com/el-profesor926/thelounge-docker-master/issues?q=is%3Aissue+is%3Aclosed"><img alt="Issues Closed" src="https://img.shields.io/github/issues-closed-raw/el-profesor926/thelounge-docker-master?color=red"></a>
 If you have an issue, change request or comments about this theme please report it below: <br>
 <a href="https://github.com/el-profesor926/thelounge-docker-prod-master/issues">/thelounge-docker-prod-master/issues</a>
